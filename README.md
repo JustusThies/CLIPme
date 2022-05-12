@@ -1,4 +1,4 @@
-# CLIPme
+# CLIPme if you can!
 
 [CLIP](https://openai.com/blog/clip/) is a powerful tool to match images to text descriptions.
 It can be used for classification of ImageNet classes as shown in the original paper, but it can also be used to assign names of (famous) people to images.
